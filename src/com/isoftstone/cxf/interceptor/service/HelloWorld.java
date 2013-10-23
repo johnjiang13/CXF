@@ -1,7 +1,8 @@
-package com.isoftstone.cxf.demo01.service;
+package com.isoftstone.cxf.interceptor.service;
 
 import javax.jws.WebParam;
 import javax.jws.WebService;
+
 
 /**
  * 
